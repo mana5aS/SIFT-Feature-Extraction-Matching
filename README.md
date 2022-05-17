@@ -1,2 +1,2 @@
 # SIFT-Feature-Extraction-Matching
-Image feature extraction and matching using Scale-Invariant Feature Transform
+SIFT feature extraction from distorted images (noisy, rotated, changed perspective) and feature matching between original and distorted images.
